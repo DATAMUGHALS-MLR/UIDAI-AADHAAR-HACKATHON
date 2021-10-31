@@ -1,0 +1,30 @@
+@addTagHelper*, Microsoft.AspNetCore.Mvc.TagHelpers
+@using Data_Exist_Core_MVC.Models;
+@model Customer
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <form asp-action="Index" asp-controller="Home" method="post">
+        Name:
+        <input type="text" name="name" />
+        Address:
+        <input type="text" Address="name" />
+        @if (ViewBag.Message != null && ViewBag.Message == "Exist")
+        {
+        <br /><span style="color:red;">Name already exist.</span>
+        }
+        <br /><br /><input type="submit" value="Save" />
+    </form>
+</body>
+</html>
+<a href="verification.html"><button><Font size="5"><b>Submit</b></button></a>

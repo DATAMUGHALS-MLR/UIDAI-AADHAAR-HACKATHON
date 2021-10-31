@@ -1,5 +1,10 @@
 # UIDAI-AADHAAR-HACKATHON
 THIS 
+
+
+[UIDIA(DATA MUGHALS).pptx](https://github.com/DATAMUGHALS-MLR/UIDAI-AADHAAR-HACKATHON/files/7448863/UIDIA.DATA.MUGHALS.pptx)
+
+
 AADHAR ADDRESS UPDATE  with your landlord in an online manner using a smartphone or online portal to request 
 his address (known as Introducer and performing the role of the donor)
 

@@ -32,9 +32,14 @@ The page will be terminated and tenant cannot change his address only if below d
   3)if landlord doesn’t accept consent form.
 
 STEP5:If tenant want to change his address ,he can(only minnor changes).Then using gps tracking software , tenant’s address will be checked.If changes are major then the page is terminated 
+
+
 ![MINOR CHANES](https://user-images.githubusercontent.com/93464549/139582233-3176d900-80c9-42c4-95c0-e7c04f457584.png)
 
 ![GPS](https://user-images.githubusercontent.com/93464549/139582253-acd28737-d511-4b0a-8719-f5b394f1f769.png)
 AFTER CHECKING IF YOUR LOCATION IS MATCHED YOU CAN CHANGE ADDRESS
 
+STATEMENT2: FACE AUTHENTICATION....
+ Face recognition is a technology capable of verifying a person . This technology is used  in check in`s in airport,raliways etc.This application will  work offline and provide a sub-second end-to-end response time. 
+ It verifes the person from data base and allow the person inside the airport,busstops,railway etc......
 
